@@ -8,6 +8,7 @@ import java.math.BigDecimal;
  * @author vknysh
  */
 public class FileDoc {
+
     private String firstName;
     private String lastName;
     private String address;

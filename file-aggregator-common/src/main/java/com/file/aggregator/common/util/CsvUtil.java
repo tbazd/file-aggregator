@@ -21,8 +21,11 @@ public final class CsvUtil {
     // Method should parse string (see CsvUtilTest.CSV_STRING)
     // Method should return list of the filled FileDoc objects
     // Implementation result should be validated with a unit test
-    public static List<FileDoc> getFileDoc(String csvFileString) {
-        return new ArrayList<>();
+    public static List<FileDoc> getFileDocs(String csvFileString) {
+        List<FileDoc> fileDocs = new ArrayList<>();
+        // TODO: implement logic here
+
+        return fileDocs;
     }
 
 }
